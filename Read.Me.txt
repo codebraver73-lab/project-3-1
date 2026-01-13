@@ -1,0 +1,39 @@
+Student information:
+Student name: Joud Bassel Naji
+
+
+
+website name: 
+ T-care a medical equipment's digital store.
+
+
+
+Description:
+
+this website is about showcasing and introducing medical equipment store , this website is fully responsive the user could explore the different types of medical equipment's based on his needs, he could add the items he needs in the cart.
+
+
+Technologies used:
+HTML
+CSS
+Java script
+
+
+How to use the project:
+Open index.html.
+scroll down to explore the part of the home page.
+navigate the different pages to know more about the medical equipment.
+
+
+Features:
+Frequently asked questions section.
+Carousel.
+Footer.
+Hamburger nav bar when the screen is small.
+A full functional cart.
+
+
+
+
+ 
+
